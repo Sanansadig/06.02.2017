@@ -14,3 +14,10 @@ Cash machine. The cash machine contains the sufficient number of banknotes with 
 Yuxarıda verilən alqoritmin diaqramını tərtib edin.
 
 
+## Qaynaqlar
+
+- http://www.studytonight.com/dbms/dml-command
+- http://www.sql-tutorial.net/sql-cheat-sheet.pdf
+- https://thenewboston.com/videos.php?cat=49
+- https://mva.microsoft.com/en-us/training-courses/database-fundamentals-8243?l=Aj9PJyJy_7604984382
+
